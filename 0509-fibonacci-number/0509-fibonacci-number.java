@@ -4,8 +4,8 @@ class Solution {
         // return fib(n-1) + fib(n-2);
 
 
-        double sqrt5 = Math.sqrt(5);
-        double fibN = Math.pow((1 + sqrt5) / 2, n) - Math.pow((1 - sqrt5) / 2, n);
-        return (int) Math.round(fibN / sqrt5);
+        double sqrt = Math.sqrt(5);
+        double fib = Math.pow((1 + sqrt) / 2, n) - Math.pow((1 - sqrt) / 2, n);
+        return (int) Math.round(fib / sqrt);
     }
 }
