@@ -3,7 +3,7 @@ class Solution {
         int time = 0;
         int curr = 0;
         for(int i : requests){
-            time += Math.abs(curr-i);
+            time += Math.abs(i - curr);
             curr = i;
         }
         return time;
