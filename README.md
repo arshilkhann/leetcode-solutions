@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
