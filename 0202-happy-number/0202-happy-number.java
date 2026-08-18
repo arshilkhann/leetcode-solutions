@@ -3,16 +3,13 @@ class Solution {
         int slow = n;
         int fast = n; 
 
-        do{
-            slow = compute(slow); 
+        do {
+            slow = compute(slow);
             fast = compute(compute(fast));
-
-            if(slow == 1){
-                return true;
-            } 
-        }while(slow != fast); 
-        return false;
+        } while (slow != fast);
+        return slow == 1;
     }
+    
 
     private int compute (int n) {
         int sum = 0;
