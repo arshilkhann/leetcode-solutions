@@ -1,33 +1,25 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> ans = new ArrayList<>();
-
-        if (s.length() < p.length()) {
-            return ans;
-        }
+        List<Integer> result = new ArrayList<>();
 
         int[] pFreq = new int[26];
-        int[] windowFreq = new int[26];
-        for (char ch : p.toCharArray()) {
-            pFreq[ch - 'a']++;
+        int[] window = new int[26];
+        for (char c : p.toCharArray()) {
+            pFreq[c - 'a']++;
         }
-        int windowSize = p.length();
 
-        for (int i = 0; i < windowSize; i++) {
-            windowFreq[s.charAt(i) - 'a']++;
-        }
-        if (Arrays.equals(pFreq, windowFreq)) {
-            ans.add(0);
-        }
-        for (int i = windowSize; i < s.length(); i++) {
-            windowFreq[s.charAt(i) - 'a']++;
-            
-            windowFreq[s.charAt(i - windowSize) - 'a']--;
-            if (Arrays.equals(pFreq, windowFreq)) {
-                ans.add(i - windowSize + 1);
+        int k = p.length();
+
+        for (int i = 0; i < s.length(); i++) {
+            window[s.charAt(i) - 'a']++;
+
+            if (i >= k) {
+                window[s.charAt(i - k) - 'a']--;
+            }
+            if (i >= k - 1 && Arrays.equals(pFreq, window)) {
+                result.add(i - k + 1);
             }
         }
-
-        return ans;
+        return result;
     }
 }
