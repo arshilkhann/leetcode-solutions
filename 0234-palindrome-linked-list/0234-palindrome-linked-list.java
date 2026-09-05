@@ -13,29 +13,34 @@ class Solution {
 
         ListNode slow = head;
         ListNode fast = head;
+
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        ListNode prev = null;
-        while (slow != null) {
-            ListNode next = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = next;
-        }
-
-        ListNode left = head;
-        ListNode right = prev;
-        while (right != null) {
-            if (left.val != right.val) {
+        ListNode secondHalf = reverse(slow);
+        ListNode firstHalf = head;
+        while (secondHalf != null) {
+            if (firstHalf.val != secondHalf.val) {
                 return false;
             }
-            left = left.next;
-            right = right.next;
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
-
         return true;
+    }
+
+    private ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 }
