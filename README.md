@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
