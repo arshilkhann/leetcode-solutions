@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
