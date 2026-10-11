@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArshilKhan09/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
